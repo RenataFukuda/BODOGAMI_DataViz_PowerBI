@@ -1,7 +1,5 @@
 <h1 align="center"><img src="https://www.bodogami.com.br/wp-content/uploads/2021/12/logo_1000x500-768x384.png" width="200">
 
-<h1 align="center">BODOGAMI</h1>
-
 <p align="center"> Sales Analysis Project for Bodogami Restaurant 🎲🎲🎲
 </h1>
 <a name="project-description"></a>
